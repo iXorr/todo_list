@@ -1,3 +1,3 @@
 # todo_list
 
-Simple web application.
+Simple web application. Just open "/app/index.html".
